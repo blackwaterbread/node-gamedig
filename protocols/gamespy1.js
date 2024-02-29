@@ -32,7 +32,7 @@ function normalizeEntry ([key, value]) {
 export default class gamespy1 extends Core {
   constructor () {
     super()
-    this.encoding = 'latin1'
+    this.encoding = 'euc-kr'
     this.byteorder = 'be'
   }
 
