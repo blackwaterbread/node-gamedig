@@ -216,6 +216,7 @@ export default class valve extends Core {
     if (this.goldsrcInfo) {
       const b = await this.udpSend('\xff\xff\xff\xffrules', b => b, () => null)
       if (b === null && !this.options.requestRulesRequired) return // timed out - the server probably has rules disabled
+      state.raw.rulesBytes = b
       const reader = this.reader(b)
       while (!reader.done()) {
         const key = reader.string()
@@ -224,7 +225,7 @@ export default class valve extends Core {
     } else {
       const b = await this.sendPacket(0x56, null, 0x45, true)
       if (b === null && !this.options.requestRulesRequired) return // timed out - the server probably has rules disabled
-
+      state.raw.rulesBytes = b
       const reader = this.reader(b)
       const num = reader.uint(2)
       for (let i = 0; i < num; i++) {
