@@ -1,6 +1,9 @@
 
 ## To Be Released...
-## 5.0.0-beta.3
+## 5.X.Y
+In progress?
+
+## 5.0.0
 * Added a new stabilized field `version` in the query response (By @podrivo #532)
 * Euro Truck Simulator 2 (2012) - Added support (By @podrivo #523)
 * Eco - Fixed querying servers using reverse queries and player names (By @Vito0912 #526)
@@ -12,7 +15,12 @@
 * Grand Theft Auto: San Andreas OpenMP - Fixed `state.players` returning an empty array (By @Focus04 #547) 
 * Perf: Re-write of the `core` class.
 * Perf: Remove many if statements from `GameSpy2`.
-* fix: BeamMP maxplayers that was displaying player count (By @dgibbs64 #551)
+* Myth of Empires - Added support.
+* Fix: BeamMP maxplayers that was displaying player count (By @dgibbs64 #551)
+* Fix: BeamMP filter servers by address, not host (By @Rephot #558)
+* Palworld - Replace old and broken protocol with the new one (#560)
+* Nova-Life: Amboise - Added support.
+* Abiotic Factor - Added Support.
 
 ## 5.0.0-beta.2
 * Fixed support for projects using `require`.

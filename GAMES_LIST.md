@@ -4,6 +4,7 @@
 | a2oa                 | ARMA 2: Operation Arrowhead                      | [Valve Protocol](#valve)                        |
 | aaa                  | ARMA: Armed Assault                              |                                                 |
 | aapg                 | America's Army: Proving Grounds                  | [Valve Protocol](#valve)                        |
+| abioticfactor        | Abiotic Factor                                   | [Valve Protocol](#valve)                        |
 | actionsource         | Action: Source                                   | [Valve Protocol](#valve)                        |
 | acwa                 | ARMA: Cold War Assault                           |                                                 |
 | ahl                  | Action Half-Life                                 | [Valve Protocol](#valve)                        |
@@ -50,6 +51,7 @@
 | breach               | Breach                                           | [Valve Protocol](#valve)                        |
 | breed                | Breed                                            |                                                 |
 | brink                | Brink                                            | [Valve Protocol](#valve)                        |
+| c2d                  | CS2D                                             |                                                 |
 | c3db                 | Commandos 3: Destination Berlin                  |                                                 |
 | cacr                 | Command and Conquer: Renegade                    |                                                 |
 | chaser               | Chaser                                           |                                                 |
@@ -80,7 +82,6 @@
 | crysis               | Crysis                                           |                                                 |
 | crysis2              | Crysis 2                                         |                                                 |
 | crysiswars           | Crysis Wars                                      |                                                 |
-| cs2d                 | CS2D                                             |                                                 |
 | cscz                 | Counter-Strike: Condition Zero                   | [Valve Protocol](#valve)                        |
 | csgo                 | Counter-Strike: Global Offensive                 | [Notes](#csgo), [Valve Protocol](#valve)        |
 | css                  | Counter-Strike: Source                           | [Valve Protocol](#valve)                        |
@@ -100,8 +101,8 @@
 | dhe4445              | Darkest Hour: Europe '44-'45                     |                                                 |
 | discord              | Discord                                          | [Notes](#discord)                               |
 | dmomam               | Dark Messiah of Might and Magic                  | [Valve Protocol](#valve)                        |
-| dod                  | Day of Defeat                                    | [Valve Protocol](#valve)                        |
 | dnf2001              | Duke Nukem Forever 2001                          |                                                 |
+| dod                  | Day of Defeat                                    | [Valve Protocol](#valve)                        |
 | dods                 | Day of Defeat: Source                            | [Valve Protocol](#valve)                        |
 | doi                  | Day of Infamy                                    | [Valve Protocol](#valve)                        |
 | doom3                | Doom 3                                           |                                                 |
@@ -113,17 +114,17 @@
 | dystopia             | Dystopia                                         | [Valve Protocol](#valve)                        |
 | eco                  | Eco                                              |                                                 |
 | egs                  | Empyrion - Galactic Survival                     | [Valve Protocol](#valve)                        |
-| eldewrito            | Halo Online (ElDewrito)                          |                                                 |
+| eldewrito            | Halo Online - ElDewrito                          |                                                 |
 | empiresmod           | Empires Mod                                      | [Valve Protocol](#valve)                        |
-| enshrouded           | Enshrouded                                       | [Valve Protocol](#valve)                        |
+| enshrouded           | enshrouded                                       | [Valve Protocol](#valve)                        |
 | etqw                 | Enemy Territory: Quake Wars                      |                                                 |
 | ets2                 | Euro Truck Simulator 2                           | [Valve Protocol](#valve)                        |
 | f1c9902              | F1 Challenge '99-'02                             |                                                 |
 | factorio             | Factorio                                         |                                                 |
 | farcry               | Far Cry                                          |                                                 |
 | farcry2              | Far Cry 2                                        |                                                 |
-| farmingsimulator19 | Farming Simulator 19                               | [Notes](#farmingsimulator)                      |
-| farmingsimulator22 | Farming Simulator 22                               | [Notes](#farmingsimulator)                      |
+| farmingsimulator19   | Farming Simulator 19                             |                                                 |
+| farmingsimulator22   | Farming Simulator 22                             |                                                 |
 | fear                 | F.E.A.R.                                         |                                                 |
 | ffow                 | Frontlines: Fuel of War                          |                                                 |
 | fof                  | Fistful of Frags                                 | [Valve Protocol](#valve)                        |
@@ -156,12 +157,12 @@
 | homeworld2           | Homeworld 2                                      |                                                 |
 | hurtworld            | Hurtworld                                        | [Valve Protocol](#valve)                        |
 | i2cs                 | IGI 2: Covert Strike                             |                                                 |
-| il2sturmovik         | IL-2 Sturmovik                                   |                                                 |
+| i2s                  | IL-2 Sturmovik                                   |                                                 |
 | imic                 | Insurgency: Modern Infantry Combat               | [Valve Protocol](#valve)                        |
 | insurgency           | Insurgency                                       | [Valve Protocol](#valve)                        |
 | insurgencysandstorm  | Insurgency: Sandstorm                            | [Valve Protocol](#valve)                        |
 | ironstorm            | Iron Storm                                       |                                                 |
-| jb007n               | James Bond 007: Nightfire                        |                                                 |
+| jb0n                 | James Bond 007: Nightfire                        |                                                 |
 | jc2m                 | Just Cause 2 - Multiplayer                       |                                                 |
 | jc3m                 | Just Cause 3 - Multiplayer                       | [Valve Protocol](#valve)                        |
 | killingfloor         | Killing Floor                                    |                                                 |
@@ -179,6 +180,7 @@
 | mgm                  | Mumble - GT Murmur                               | [Notes](#mumble)                                |
 | minecraft            | Minecraft                                        | [Notes](#minecraft)                             |
 | mnc                  | Monday Night Combat                              | [Valve Protocol](#valve)                        |
+| moe                  | Myth of Empires                                  | [Valve Protocol](#valve)                        |
 | moh                  | Medal of Honor                                   |                                                 |
 | moha                 | Medal of Honor: Airborne                         |                                                 |
 | mohaa                | Medal of Honor: Allied Assault                   |                                                 |
@@ -199,6 +201,7 @@
 | nexuiz               | Nexuiz                                           |                                                 |
 | nfshp2               | Need for Speed: Hot Pursuit 2                    |                                                 |
 | nitrofamily          | Nitro Family                                     |                                                 |
+| nla                  | Nova-Life: Amboise                               | [Valve Protocol](#valve)                        |
 | nmrih                | No More Room in Hell                             | [Valve Protocol](#valve)                        |
 | nolf2asihw           | No One Lives Forever 2: A Spy in H.A.R.M.'s Way  |                                                 |
 | nucleardawn          | Nuclear Dawn                                     | [Valve Protocol](#valve)                        |
@@ -209,7 +212,7 @@
 | openarena            | OpenArena                                        |                                                 |
 | openttd              | OpenTTD                                          |                                                 |
 | painkiller           | Painkiller                                       |                                                 |
-| palworld             | Palworld                                         | [EOS Protocol](#epic)                           |
+| palworld             | Palworld                                         |                                                 |
 | pce                  | Primal Carnage: Extinction                       | [Valve Protocol](#valve)                        |
 | pixark               | PixARK                                           | [Valve Protocol](#valve)                        |
 | postal2              | Postal 2                                         |                                                 |
@@ -293,12 +296,12 @@
 | thefront             | The Front                                        | [Valve Protocol](#valve)                        |
 | thehidden            | The Hidden                                       | [Valve Protocol](#valve)                        |
 | theisle              | The Isle                                         | [Valve Protocol](#valve)                        |
-| tie                  | The Isle Evrima                                  | [EOS Protocol](#epic)                           |
 | theship              | The Ship                                         | [Valve Protocol](#valve)                        |
 | thespecialists       | The Specialists                                  | [Valve Protocol](#valve)                        |
 | thps3                | Tony Hawk's Pro Skater 3                         |                                                 |
 | thps4                | Tony Hawk's Pro Skater 4                         |                                                 |
 | thu2                 | Tony Hawk's Underground 2                        |                                                 |
+| tie                  | The Isle Evrima                                  | [EOS Protocol](#epic)                           |
 | toh                  | Take On Helicopters                              |                                                 |
 | tonolf               | The Operative: No One Lives Forever              |                                                 |
 | towerunite           | Tower Unite                                      | [Valve Protocol](#valve)                        |
@@ -396,18 +399,18 @@ Games with Additional Notes
 To receive a full player list response from CS:GO servers, the server must
 have set the cvar: host_players_show 2
 
-### Discord
+### <a name="discord"></a> Discord
 You must set the `guildId` request field to the server's guild ID. Do not provide an IP.
 The Guild ID can be found in server widget settings (Server ID) or by enabling developer mode in client settings and right-clicking the server's icon.
 In order to retrieve information from discord server's they must have the `Enable server widget` option enabled.
 
-### Mumble
+### <a name="mumble"></a> Mumble
 For full query results from Mumble, you must be running the
 [GTmurmur plugin](http://www.gametracker.com/downloads/gtmurmurplugin.php).
 If you do not wish to run the plugin, or do not require details such as channel and user lists,
 you can use the 'mumbleping' server type instead, which uses a less accurate but more reliable solution
 
-### Nadeo (ShootMania / TrackMania / etc)
+### <a name="nadeo"></a> Nadeo (ShootMania / TrackMania / etc)
 The server must have xmlrpc enabled, and you must pass the xmlrpc port to GameDig, not the connection port.
 You must have a user account on the server with access level User or higher.
 Pass the login into to GameDig with the additional options: login, password
@@ -426,11 +429,11 @@ For teamspeak 3 queries to work correctly, the following permissions must be ava
 In the extremely unusual case that your server host responds to queries on a non-default port (the default is 10011),
 you can specify their host query port using the teamspeakQueryPort option.
 
-### Terraria
+### <a name="terraria"></a>Terraria
 Requires tshock server mod, and a REST user token, which can be passed to GameDig with the
 additional option: `token`
 
-### Valheim
+### <a name="valheim"></a>Valheim
 Valheim servers will only respond to queries if they are started in public mode (`-public 1`).
 
 ### <a name="dayz"></a>DayZ
@@ -439,13 +442,15 @@ DayZ stores some of it's servers information inside the `tags` attribute. Make s
 ### <a name="thefront"></a>The Front
 Responses with wrong `name` (gives out a steamid instead of the server name) and `maxplayers` (always 200, whatever the config would be) field values.
 
-### <a name="conanexiles">Conan Exiles
+### <a name="conanexiles"></a>Conan Exiles
 Conan Exiles never responds to player query.
 
-### <a name="minecraft">Minecraft
-Many Minecraft servers do not respond with players data.
+### <a name="minecraft"></a>Minecraft
+Many Minecraft servers do not respond with players data.  
+Beware that using this entry is quite slow as it attempts 3 protocols at a time (`minecraftvanilla`, `minecraftbedrock` and `gamespy3`) and waits for all the queries to finish.
+If you know your use case, it's better to use a single protocol or make your own logic for attempting multiple ones.
 
-### <a name='farmingsimulator'>Farming Simulator
+### <a name='farmingsimulator'></a>Farming Simulator
 Farming Simulator servers need a token (reffered as code in the game). It can be obtained at your server's web interface (http://ip:port/settings.html). It can be passed to GameDig with the additional option: `token`. It does only work for your own server.
 The response includes much information about the server. Currently, only the fields about server information (name, map, version, etc.), players and mods are parsed.
 
@@ -458,3 +463,7 @@ option: `requestRules: true`. Beware that this may increase query time.
 
 ### <a name="epic"></a>Epic Online Services (EOS) Protocol
 EOS does not provide players data.
+
+### <a name="palworld"></a>Palworld
+Palworld support can be unstable, the devs mention the api is currently experimental.  
+To query Palworld servers, the `RESTAPIEnabled` setting must be `True` in the configuration file, and you need to pass the `username` (currently always `admin`) and the `adminpassword` (from the server config) as the `password` parameter.
